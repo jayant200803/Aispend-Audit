@@ -118,7 +118,15 @@ All pricing data verified against official vendor pages in May 2026. See [PRICIN
 > **TODO before submitting:** Add 3 screenshots or replace this section with a Loom/YouTube screen recording link.
 > Suggested captures: (1) landing page hero, (2) audit form with tools filled in, (3) results page showing savings breakdown.
 
-**Screen recording:** [Add Loom or YouTube link here]
+**Screen recording:**
+1. Landing Page
+<img width="959" height="442" alt="Screenshot 2026-05-13 173540" src="https://github.com/user-attachments/assets/ab2afb0a-fbf0-44a0-8bc5-5b402a79208e" />
+
+2. Audit Form
+<img width="959" height="439" alt="Screenshot 2026-05-13 173624" src="https://github.com/user-attachments/assets/d5bde08a-79db-41c0-a571-87317bbea168" />
+
+3. Results 
+<img width="509" height="437" alt="Screenshot 2026-05-13 173654" src="https://github.com/user-attachments/assets/d51c289f-f8c9-4727-8fce-3c8b7382783d" />
 
 ---
 
