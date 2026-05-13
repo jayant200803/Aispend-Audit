@@ -2,7 +2,7 @@
 
 > Stop overpaying for AI tools. Get a free, instant audit of your Cursor, Copilot, Claude, ChatGPT, Gemini & API spend — with real savings recommendations.
 
-**Live:** [https://stackaudit.credex.rocks](https://stackaudit.credex.rocks)
+**Live:** [https://aispend-audit.vercel.app](https://aispend-audit.vercel.app)
 
 ---
 
